@@ -1,4 +1,4 @@
-This is for releasing the source code of the SRDS 2020 paper "End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things".
+This is for releasing the source code of the IEEE TDSC 2021 paper "Design and evaluation of a multi-domain Trojan detection method on deep neural networks".
 
 If you find it is useful and used for publication. Please kindly cite our work as:
 
