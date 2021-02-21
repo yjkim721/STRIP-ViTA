@@ -9,6 +9,6 @@ If you find it is useful and used for publication. Please kindly cite our work a
   journal={IEEE Transactions on Dependable and Secure Computing},
   year={2021}
 }
-
+```
 ## STRIP-ViTA
 This work corroborates a run-time Trojan detection method exploiting STRong Intentional Perturbation of inputs, is a multi-domain Trojan detection defence across Vision, Text and Audio domains---thus termed as STRIP-ViTA. Specifically, STRIP-ViTA is the first confirmed input-agnostic Trojan detection method that is effective across multiple task domains and independent of model architectures.
